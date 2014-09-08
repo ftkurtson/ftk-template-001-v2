@@ -1,7 +1,7 @@
 {
-    "name":"Ocean Hotel",
-    "thumbnail":"oceanhotel.png",
-    "screenshot":"oceanhotel.png",
+    "name":"Photography-Template",
+    "thumbnail":"photography.png",
+    "screenshot":"photography.png",
     "pageTypes": ["home"],
     "templateType":"standard",
     "tags": {
