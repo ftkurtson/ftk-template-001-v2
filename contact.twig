@@ -23,6 +23,8 @@
     <div class="canvas">
         <div class="main wrapper clearfix">
 			{{widget('map', 'map-01', {'height': '300', 'zoom': '15', 'address': 'profile'})|raw}}
+			{{widget('line', 'line-divider', {'thickness': 'inherit', 'padding': 'inherit', 'length':'inherit', 'align': 'center'})|raw}}
+
 			{{widget('contactform', 'contact-form-01', {'text': 'Submit','formTitle': 'Contact Form', 'email': 'profile'})|raw}}
 
 		
